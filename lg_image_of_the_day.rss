@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?> <rss version="2.0" xml:base="http://www.nasa.gov/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/"> <channel> <title>NASA Image of the Day</title>
  <description>The latest NASA &quot;Image of the Day&quot; image.</description>
  <link>http://www.nasa.gov/</link>
- <atom:link rel="self" href="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss" />
+ <atom:link rel="self" href="https://github.com/prdalai/JSON/edit/master/lg_image_of_the_day.rss" />
  <language>en-us</language>
  <managingEditor>yvette.smith-1@nasa.gov</managingEditor>
  <webMaster>brian.dunbar@nasa.gov</webMaster>
@@ -12,7 +12,7 @@
  <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/ng-13_on_pad_with_moon.jpg" length="3600387" type="image/jpeg" />
  <guid isPermaLink="false">http://www.nasa.gov/image-feature/northrop-grumman-cargo-mission-awaits-launch</guid>
  <pubDate>Sun, 09 Feb 2020 09:46 EST</pubDate>
- <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+ <source url="https://github.com/prdalai/JSON/edit/master/lg_image_of_the_day.rss">NASA Image of the Day</source>
 </item>
  <item> <title>Victor Glover: Training for the Future</title>
  <link>http://www.nasa.gov/image-feature/victor-glover-training-for-the-future</link>
